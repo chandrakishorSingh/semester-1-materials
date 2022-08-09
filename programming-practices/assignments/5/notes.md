@@ -1,0 +1,2 @@
+- The syntax of array creation is `arr=(<contents>)`. Hence, we can use either `arr=(`<some-command>`)` or `arr=($(<some-command>))`.
+- When assigning a value to a variable in bash, don't use `$` to refer to the variable that is going to be assigned some value. Only use `$` to access the value of variable.

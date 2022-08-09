@@ -1,0 +1,9 @@
+10.2.sh
+10.sh
+5.sh
+6.sh
+7.sh
+8.sh
+9.sh
+outText.txt
+shebang-everything.pdf

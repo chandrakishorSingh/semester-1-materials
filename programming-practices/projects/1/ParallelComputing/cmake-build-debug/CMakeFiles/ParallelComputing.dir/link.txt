@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/ParallelComputing.dir/parallelLUD.cpp.o CMakeFiles/ParallelComputing.dir/serialLUD.cpp.o CMakeFiles/ParallelComputing.dir/ompLUD.cpp.o CMakeFiles/ParallelComputing.dir/verification.cpp.o CMakeFiles/ParallelComputing.dir/utils.cpp.o -o ParallelComputing 

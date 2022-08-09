@@ -1,0 +1,3 @@
+/home/chandrakishorsingh/Documents/iiit-allahabad/semester-1/programming-practices/projects/1/ParallelComputing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/chandrakishorsingh/Documents/iiit-allahabad/semester-1/programming-practices/projects/1/ParallelComputing/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/chandrakishorsingh/Documents/iiit-allahabad/semester-1/programming-practices/projects/1/ParallelComputing/cmake-build-debug/CMakeFiles/ParallelComputing.dir

@@ -1,0 +1,14 @@
+https://en.wikipedia.org/wiki/QRS_complex
+
+https://medium.com/swlh/the-fast-fourier-transform-fft-5e96cf637c38
+
+https://towardsdatascience.com/time-series-signals-the-fourier-transform-f68e8a97c1c2
+
+https://github.com/ShawhinT/YouTube-Blog/tree/main/waveletTransform
+
+https://shawhint.github.io/
+
+https://en.wikipedia.org/wiki/Symlet
+
+https://towardsdatascience.com/the-wavelet-transform-e9cfa85d7b34
+
